@@ -31,7 +31,7 @@ education:
     - course: BSc in Network Engineering
       institution: Donghua University
       year: 2019
-email: ""
+email: zxmeng98@gmail.com
 superuser: true
 highlight_name: true
 ---
