@@ -35,6 +35,6 @@ email: zxmeng98@gmail.com
 superuser: true
 highlight_name: true
 ---
-Zhaoxin Meng is a machine learning engineer intern of DiDi Voyager.  His research interests include machine learning and computer vision.
+Zhaoxin Meng is a machine learning engineer intern of DiDi.  His research interests include machine learning and computer vision.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
