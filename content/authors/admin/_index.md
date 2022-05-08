@@ -28,7 +28,7 @@ education:
     - course: M.S. in Computer Scinence
       institution: Beijing University of Posts and Telecommunications
       year: 2022
-    - course: BSc in Network Engineering
+    - course: B.S. in Network Engineering
       institution: Donghua University
       year: 2019
 email: zxmeng98@gmail.com
