@@ -2,10 +2,10 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Machine Learning Engineer
+    company: DiDi
     company_url: ""
-    company_logo: org-gc
+    company_logo: didi
     location: California
     date_start: 2021-01-01
     date_end: ""
