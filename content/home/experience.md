@@ -31,6 +31,3 @@ subtitle: null
 design:
   columns: "2"
 ---
-* DiDi Voyager(Autonomous Driving Team), Machine Learning Engineer
-
-  * Dec 21 - present
